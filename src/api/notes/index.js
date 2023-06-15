@@ -1,6 +1,3 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable indent */
-/* eslint-disable eol-last */
 const NotesHandler = require('./handler');
 const routes = require('./routes');
 

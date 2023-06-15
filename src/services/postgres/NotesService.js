@@ -1,14 +1,3 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable no-undef */
-/* eslint-disable linebreak-style */
-/* eslint-disable lines-between-class-members */
-/* eslint-disable linebreak-style */
-/* eslint-disable import/no-extraneous-dependencies */
-/* eslint-disable no-underscore-dangle */
-/* eslint-disable indent */
-/* eslint-disable no-unused-vars */
-/* eslint-disable linebreak-style */
-/* eslint-disable eol-last */
 const { Pool } = require('pg');
 const { nanoid } = require('nanoid');
 const InvariantError = require('../../exceptions/InvariantError');

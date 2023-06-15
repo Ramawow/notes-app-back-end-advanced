@@ -1,7 +1,3 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable import/no-extraneous-dependencies */
-/* eslint-disable indent */
-/* eslint-disable eol-last */
 const Joi = require('joi');
 
 const NotePayloadSchema = Joi.object({

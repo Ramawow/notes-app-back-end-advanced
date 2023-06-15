@@ -1,7 +1,3 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable indent */
-/* eslint-disable linebreak-style */
-/* eslint-disable eol-last */
 const ClientError = require('./ClientError');
 
 class NotFoundError extends ClientError {

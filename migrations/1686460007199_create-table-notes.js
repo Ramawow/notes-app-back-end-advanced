@@ -1,8 +1,3 @@
-/* eslint-disable indent */
-/* eslint-disable no-unused-vars */
-/* eslint-disable arrow-parens */
-/* eslint-disable camelcase */
-
 exports.shorthands = undefined;
 
 exports.up = (pgm) => {

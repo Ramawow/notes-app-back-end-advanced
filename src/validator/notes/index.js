@@ -1,7 +1,3 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable indent */
-/* eslint-disable linebreak-style */
-/* eslint-disable eol-last */
 const InvariantError = require('../../exceptions/InvariantError');
 const { NotePayloadSchema } = require('./schema');
 

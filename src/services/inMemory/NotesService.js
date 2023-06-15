@@ -1,12 +1,3 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable no-undef */
-/* eslint-disable linebreak-style */
-/* eslint-disable no-underscore-dangle */
-/* eslint-disable no-unused-vars */
-/* eslint-disable indent */
-/* eslint-disable class-methods-use-this */
-/* eslint-disable linebreak-style */
-/* eslint-disable eol-last */
 const { nanoid } = require('nanoid');
 const InvariantError = require('../../exceptions/InvariantError');
 const NotFoundError = require('../../exceptions/NotFoundError');
